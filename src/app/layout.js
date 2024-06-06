@@ -13,7 +13,7 @@ export const metadata = {
     default:"Next.js 14 Homepage",
     template:"%s | Next.js 14"
   },
-  description: "Next.js starter app description",
+  description: "Next.j starter app description",
 };
 
 export default function RootLayout({ children }) {
